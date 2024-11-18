@@ -118,7 +118,7 @@ The first thing I'll do is disable the guest account, as it's a security risk to
 ![image](https://github.com/user-attachments/assets/5ffded28-5b14-413a-8ec8-1edc1c1ac67e)
 ![image](https://github.com/user-attachments/assets/8f9d20f1-a0a6-454d-be31-f0afa0df78ed)
 
-I also disabled the administrator account as any admins, like Bobby for example should have their own account. 
+I also disabled the administrator account as any admins, like Bobby for example, should have their own account. 
 
 ![image](https://github.com/user-attachments/assets/c5ff2831-712a-460c-a104-f1689ddab683)
 ![image](https://github.com/user-attachments/assets/f1e9dc7c-d6cc-4077-8619-cfd0a75101bf)
