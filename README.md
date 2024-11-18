@@ -128,3 +128,6 @@ There are three other accounts here: Bobby, Sam, and Viral. I've made sure that 
 ![image](https://github.com/user-attachments/assets/cd2fcfe3-3013-4211-b750-50899ff46834)
 #
 **Summary: Identity and Access Management is the act of provisioning and moderating access to the domain, based on security policies and the principle of least privilege. In this case, five new accounts or objects were created incorrectly but incorrectly configured, and before the employees were able to be given access, I needed to administer the configuration changes based on the security policies.**
+
+**[Part 2 - Identity and Access Management: Configuring and Analyzing Share Permissions](https://github.com/LuisMateo1/IAM-Configuring-and-Analyzing-Share-Permissions/)**
+
